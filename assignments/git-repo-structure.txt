@@ -1,0 +1,39 @@
+indium_javabootcamp-batch1
+
+	|
+	|____	labs
+			|
+			|__corejava
+					|
+					|___ core-java-labs
+					|
+					|___ hello-world-labs
+
+
+	|
+	|____ 	assignments
+				|
+				|__corejava
+					|
+					|___core-java-assignments								
+					|
+					|___bankingapp-with-arrays				
+										
+					|___bankingapp-with-collection
+					|
+					|___bankingapp-with-collection-stats
+					|
+					 __ bankingapp-with-impexp
+					|
+					 __ bankingapp-with-impexp-thread
+					|
+					 __ bankingapp-with-lamexp-stream-stats
+					|
+					 __ bankingapp-with-jdbc
+					|
+					 __ bankingapp-with-junit
+
+				
+	|
+	|____ 	capstone
+				
